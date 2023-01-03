@@ -1,0 +1,55 @@
+body{
+    background-color: darkgray;
+}
+.main{
+    /* border: 2px solid grey; */
+    width: 250px;
+    margin: 30px auto;
+}
+.result{
+    width: 240px;
+    background-color: grey;
+    color: white;
+    height: 50px;
+    border:2px solid black;
+    font-size: 35px;
+    text-align: right;
+    
+}
+.clearBtn{
+    width: 185px;
+    margin-top: 10px;
+    background-color: grey;
+    color: white;
+    height: 35px;
+    font-size: 20px;
+}
+.btnDivide{
+    width: 59px;
+    margin-top: 10px;
+    background-color: grey;
+    color: white;
+    height: 35px;
+    font-size: 20px;
+
+}
+.btn{
+    width: 59px;
+    margin-top: 2px;
+    background-color: grey;
+    color: white;
+    height: 50px;
+    font-size: 20px;
+
+}
+.halfBtn{
+    width: 122px;
+    background-color: grey;
+    color: white;
+    margin-top: 2px;
+    height: 35px;
+    font-size: 20px;
+
+
+   
+}

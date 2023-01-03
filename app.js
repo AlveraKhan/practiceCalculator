@@ -1,0 +1,19 @@
+function getNum(num){
+      var result = document.getElementById("result")
+      result.value += num;
+}
+function clearResult() {
+    var result = document.getElementById("result");
+    result.value="";
+
+}
+function getResult(){
+    var result = document.getElementById("result")
+    result.value = eval(result.value)
+}
+function setName(){
+    var result=document.getElementById("result");
+    result.value = "0";
+   
+}
+setName();
